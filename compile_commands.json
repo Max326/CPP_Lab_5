@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/max/Projects/CPP_Lab_5",
+  "command": "/usr/bin/c++    -o CMakeFiles/MyExecutable.dir/src/main.cpp.o -c /home/max/Projects/CPP_Lab_5/src/main.cpp",
+  "file": "/home/max/Projects/CPP_Lab_5/src/main.cpp"
+}
+]
